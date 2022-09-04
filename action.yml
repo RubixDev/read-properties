@@ -1,5 +1,5 @@
-name: Read Properties
-description: Read property from java properties files.
+name: Read Multiple Properties
+description: Read properties from java properties files
 author: Christian Dräger
 branding:
   icon: 'list'
